@@ -1,0 +1,3 @@
+UFCD 0755 – Processador de texto – funcionalidades avançadas (25H);
+UFCD 0779 – Utilitário de apresentação gráfica (25H);
+UFCD 0767 – Internet - navegação (25H);
